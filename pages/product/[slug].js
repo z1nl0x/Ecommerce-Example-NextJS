@@ -61,7 +61,7 @@ const ProductDetails = ({ product, products }) => {
             </div>
             <h4>Detalhes: </h4>
             <p>{details}</p>
-            <p className="price">${price}</p>
+            <p className="price">R$ {price}</p>
             <div className="quantity">
               <h3>Quantidade:</h3>
               <p className="quantity-desc">
@@ -80,7 +80,7 @@ const ProductDetails = ({ product, products }) => {
                 className="add-to-cart"
                 onClick={() => onAdd(product, qty)}
               >
-                Adicionar ao carrinho
+                Adicionar à sacola
               </button>
               <button type="button" className="buy-now" onClick={handleBuyNow}>
                 Compre Agora
