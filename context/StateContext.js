@@ -40,7 +40,7 @@ export const StateContext = ({ children }) => {
       setCartItems([...cartItems, { ...product }]);
     }
 
-    toast.success(`${qty} ${product.name} adicionado ao carrinho.`);
+    toast.success(`${qty} ${product.name} adicionado(s) à sacola.`);
   };
 
   const toggleCartItemQuantity = (id, value) => {
