@@ -4,7 +4,7 @@
 
 - [Informações Gerais](#informações-gerais)
 - [Tecnologias](#tecnologias)
-- [Setup](#setup)
+- [Setup]
 
 ## Live demo
 
@@ -12,7 +12,7 @@
 
 ## Informações Gerais
 
-Este projeto foi feito seguindo um tutorial no youtube com apenas algumas modificações feito pelo autor da publicação aqui no github.
+Este projeto foi feito seguindo um tutorial no youtube com apenas algumas modificações feitas pelo autor da publicação aqui no github.
 Link do tutorial no youtube: https://www.youtube.com/watch?v=4mOkFXyxfsU
 
 ## Tecnologias
