@@ -4,7 +4,7 @@
 
 - [Informações Gerais](#informações-gerais)
 - [Tecnologias](#tecnologias)
-- [Setup]
+- Setup
 
 ## Live demo
 
